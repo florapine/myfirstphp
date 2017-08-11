@@ -1,0 +1,62 @@
+h1 {font-family: Bookman, Georgia, serif; color:#599EBA; font-size: 30px;}  
+h2 {font-family: Bookman, Georgia, serif; color:#090B09; font-size: 45px;}
+p {font-family: Bookman, Georgia, serif; color:#090B09; font-size: 17px; font-weight:600;}
+.left {text-align: left;}
+.f {font-size:11px; font-weight:400;}
+
+form {font-family: Bookman, Georgia, serif; color:#090B09; font-size: 16px;}
+input[type=text] {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px;
+	box-sizing: border-box;
+	border-radius: 7px;
+}
+a {
+    background-color:#4A636E;
+		color:#FFFFFF;
+		font-family: Bookman, serif; 
+		font-size:12px; 
+		font-weight: 500;
+    padding: 10px 10px;
+    margin-left: 5px;
+    text-align: center;
+    text-decoration: none;
+		display: inline-block;
+		box-shadow: 1px 6px 6px #c2c2c2;
+		border-style: none;
+		border-radius: 7px;
+		}
+a:hover {
+    color:black;
+    background-color:#cfb697; 
+}
+
+button {
+    background-color:#6E5D4A; 
+		color:#FFFFFF;
+		font-family: Bookman, serif; 
+		font-size:14px; 
+		font-weight: 500;
+    padding: 10px 12px;
+    margin: 9px;
+    text-align: center;
+    text-decoration: none;
+		display: inline-block;
+		box-shadow: 1px 6px 6px #c2c2c2;
+		border-style: none;
+		border-radius: 7px;
+		}
+.n {background-color: #4A636E;}
+button:hover {
+    color:black;
+    background-color:#bdccd3;
+}
+div {
+    width: 350px;
+    height: 430px;
+    border-right-style: solid; border-color: #f5f5f5; border-width: 4px; border-radius: 7px;
+    border-left-style: solid; border-color: #f5f5f5; border-width: 4px; border-radius: 7px;
+    padding: 20px;
+    margin: 25px;
+}
